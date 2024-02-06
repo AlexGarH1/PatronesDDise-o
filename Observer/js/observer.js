@@ -1,3 +1,4 @@
+//Design pattern: Observer
 class Subject{
     constructor(){
         this.observers = [];
