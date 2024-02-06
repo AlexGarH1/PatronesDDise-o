@@ -1,3 +1,4 @@
+//Patron de diseño observer
 class Subject{
     constructor(){
         this.observers = [];
