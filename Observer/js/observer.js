@@ -19,6 +19,7 @@ class Subject{
     }
 }
 
+//Clase Observador
 class Observer{ 
     constructor(fn){
         this.fn = fn;
